@@ -2,31 +2,29 @@
 
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-Console.WriteLine("=== Bài 1: Tính S(n) = 1 + 2 + ... + n ===");
+Console.WriteLine(" Bài 1: Tính S(n) = 1 + 2 + ... + n");
 Bai1();
 
-Console.WriteLine("\n=== Bài 2: Tính S(n) = 1^2 + 2^2 + ... + n^2 ===");
+Console.WriteLine("\n Bài 2: Tính S(n) = 1^2 + 2^2 + ... + n^2");
 Bai2();
 
-Console.WriteLine("\n=== Bài 3: Tính S(n) = 1 + 1/2 + ... + 1/n ===");
+Console.WriteLine("\n Bài 3: Tính S(n) = 1 + 1/2 + ... + 1/n");
 Bai3();
 
-Console.WriteLine("\n=== Bài 4: Tính S(x, n) = x^n ===");
+Console.WriteLine("\n Bài 4: Tính S(x, n) = x^n");
 Bai4();
 
-Console.WriteLine("\n=== Bài 5: Tìm ước số lẻ lớn nhất của n ===");
+Console.WriteLine("\n Bài 5: Tìm ước số lẻ lớn nhất của n");
 Bai5();
 
-Console.WriteLine("\n=== Bài 6: Tìm UCLN của hai số nguyên dương a, b ===");
+Console.WriteLine("\n Bài 6: Tìm UCLN của hai số nguyên dương a, b");
 Bai6();
 
-Console.WriteLine("\n=== Bài 7: Đếm số chữ số của số nguyên dương n ===");
+Console.WriteLine("\n Bài 7: Đếm số chữ số của số nguyên dương n");
 Bai7();
 
-Console.WriteLine("\n=== Bài 8: Tính tổng căn lồng nhau S(n) ===");
+Console.WriteLine("\n Bài 8: Tính tổng căn lồng nhau S(n)");
 Bai8();
-
-// --- CÁC HÀM XỬ LÝ TỪNG BÀI ---
 
 static void Bai1()
 {
