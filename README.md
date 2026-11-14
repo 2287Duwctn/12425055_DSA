@@ -1,7 +1,7 @@
 # Bài tập CTDL&GT – 211131
-- Họ tên: Nguyễn Văn A
-- MSV: 10125123
-- Lớp: 10125N.1
+- Họ tên: Vũ Đức Anh Tuấn
+- MSV: 12425055
+- Lớp: 124251
 
 | Buổi | Nội dung | Thư mục | Trạng thái |
 |---|---|---|---|
