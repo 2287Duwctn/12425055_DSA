@@ -14,7 +14,7 @@ dotnet run --project Buoi02_DanhSach/B2
 dotnet run --project Buoi02_DanhSach/B3
 dotnet run --project Buoi02_DanhSach/B4
 dotnet run --project Buoi02_DanhSach/B5
-
+```
 --- Bài 1 ---
 Danh sách sau khi chèn 2 vào vị trí 1:
 1 2 3
