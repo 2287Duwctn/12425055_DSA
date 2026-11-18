@@ -17,11 +17,11 @@ dotnet run --project Buoi02_DanhSach/B5
 ```
 ## Kết quả chạy
 ```Text
---- Bài 1 ---
+=== Bài 1 ===
 Danh sách sau khi chèn 2 vào vị trí 1:
 1 2 3
 
---- Bài 2 ---
+=== Bài 2 ===
 Nhập số lượng nhân viên n: 2
 
 Nhập thông tin nhân viên thứ 1:
@@ -54,7 +54,7 @@ Danh sách nhân viên sau khi tăng lương cơ bản lên 5%:
 - Mã NV: NV01, Họ tên: Vũ Đức Anh Tuấn, Năm sinh: 2007, Phòng ban: Kế toán, Lương CB mới: 5250000, Thưởng: 1500000, Thực lĩnh mới: 6750000
 - Mã NV: NV02, Họ tên: Đào Thị Hà Trang, Năm sinh: 2007, Phòng ban: Nhân sự, Lương CB mới: 4725000, Thưởng: 1000000, Thực lĩnh mới: 5725000
 
---- Bài 3 ---
+=== Bài 3 ===
 Nhập cấp ma trận vuông n (0 < n < 100): 2
 a[0,0] = 1
 a[0,1] = 2
@@ -70,7 +70,7 @@ b. Giá trị dương nhỏ nhất: 1
 c. Tổng các phần tử trên đường chéo phụ: 5
 d. Đường chéo chính tăng dần: True
 
---- Bài 4 ---
+=== Bài 4 ===
 Nhập số lượng phần tử n: 4
 Nhập phần tử thứ 1 (số nguyên dương): 5
 Nhập phần tử thứ 2 (số nguyên dương): 2
@@ -88,7 +88,7 @@ c. Nhập giá trị x cần xóa (xuất hiện đầu tiên): 2
 Danh sách sau khi xóa:
 5 -> 8 -> 2 -> null
 
---- Bài 5 ---
+=== Bài 5 ===
 Nhập số lượng phần tử n: 5
 Nhập phần tử thứ 1: -3
 Nhập phần tử thứ 2: 0
