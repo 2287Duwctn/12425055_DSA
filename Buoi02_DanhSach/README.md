@@ -26,16 +26,16 @@ Nhập số lượng nhân viên n: 2
 
 Nhập thông tin nhân viên thứ 1:
 Mã NV: NV01
-Họ tên: Nguyễn Văn A
-Năm sinh: 2000
+Họ tên: Vũ Đức Anh Tuấn
+Năm sinh: 2007
 Phòng ban: Kế toán
 Lương cơ bản: 5000000
 Thưởng: 1500000
 
 Nhập thông tin nhân viên thứ 2:
 Mã NV: NV02
-Họ tên: Trần Thị B
-Năm sinh: 2001
+Họ tên: Đào Thị Hà Trang
+Năm sinh: 2007
 Phòng ban: Nhân sự
 Lương cơ bản: 4500000
 Thưởng: 1000000
@@ -43,16 +43,16 @@ Thưởng: 1000000
 Tổng thực lĩnh tháng : 12000000
 Lương cơ bản thấp nhất: 4500000
 Danh sách nhân viên có lương cơ bản thấp nhất:
-- Mã NV: NV02, Họ tên: Trần Thị B, Năm sinh: 2001, Phòng ban: Nhân sự, Lương CB: 4500000, Thưởng: 1000000
+- Mã NV: NV02, Họ tên: Đào Thị Hà Trang, Năm sinh: 2007, Phòng ban: Nhân sự, Lương CB: 4500000, Thưởng: 1000000
 Số lượng nhân viên có thưởng >= 1.200.000: 1
 
 Danh sách nhân viên sau khi sắp xếp theo phòng ban và mã NV:
-- Mã NV: NV01, Họ tên: Nguyễn Văn A, Năm sinh: 2000, Phòng ban: Kế toán, Lương CB: 5000000, Thưởng: 1500000
-- Mã NV: NV02, Họ tên: Trần Thị B, Năm sinh: 2001, Phòng ban: Nhân sự, Lương CB: 4500000, Thưởng: 1000000
+- Mã NV: NV01, Họ tên: Vũ Đức Anh Tuấn, Năm sinh: 2007, Phòng ban: Kế toán, Lương CB: 5000000, Thưởng: 1500000
+- Mã NV: NV02, Họ tên: Đào Thị Hà Trang, Năm sinh: 2007, Phòng ban: Nhân sự, Lương CB: 4500000, Thưởng: 1000000
 
 Danh sách nhân viên sau khi tăng lương cơ bản lên 5%:
-- Mã NV: NV01, Họ tên: Nguyễn Văn A, Năm sinh: 2000, Phòng ban: Kế toán, Lương CB mới: 5250000, Thưởng: 1500000, Thực lĩnh mới: 6750000
-- Mã NV: NV02, Họ tên: Trần Thị B, Năm sinh: 2001, Phòng ban: Nhân sự, Lương CB mới: 4725000, Thưởng: 1000000, Thực lĩnh mới: 5725000
+- Mã NV: NV01, Họ tên: Vũ Đức Anh Tuấn, Năm sinh: 2007, Phòng ban: Kế toán, Lương CB mới: 5250000, Thưởng: 1500000, Thực lĩnh mới: 6750000
+- Mã NV: NV02, Họ tên: Đào Thị Hà Trang, Năm sinh: 2007, Phòng ban: Nhân sự, Lương CB mới: 4725000, Thưởng: 1000000, Thực lĩnh mới: 5725000
 
 --- Bài 3 ---
 Nhập cấp ma trận vuông n (0 < n < 100): 2
