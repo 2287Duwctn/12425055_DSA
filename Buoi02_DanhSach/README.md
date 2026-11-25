@@ -15,9 +15,10 @@ dotnet run --project Buoi02_DanhSach/B3
 dotnet run --project Buoi02_DanhSach/B4
 dotnet run --project Buoi02_DanhSach/B5
 ```
+
 ## Kết quả chạy
 ```Text
-=== Bài 1 ===
+--- Bài 1 ---
 Danh sách sau khi chèn 2 vào vị trí 1:
 1 2 3
 
@@ -104,4 +105,8 @@ d. Số âm: 1 | Số dương: 3 | Số bằng 0: 1
 Nhập giá trị x cần đếm: 2
 e. Số lượng phần tử bằng 2: 2
 f. Phần tử dương nhỏ nhất: 2
+<<<<<<< HEAD:Buoi02_DanhSach/README.md
 ```
+=======
+```
+>>>>>>> 2c0a427 (Bo sung B7 den B18 va cap nhat README):Buoi02_DanhSach/README.MD
